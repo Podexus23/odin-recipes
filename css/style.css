@@ -1,0 +1,37 @@
+@font-face {
+    font-family: RobotoB;
+    src: url(Roboto-Medium.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: RobotoLight;
+    src: url(Roboto-Light.ttf);
+    font-style: normal;
+}
+
+* {
+    font-family: 'RobotoLight', sans-serif;
+}
+body{
+    background-color: #f7ff56ad;
+}
+h1,h3 {
+    font-family: 'RobotoB', sans-serif;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    color: #3e3bfc;
+}
+
+.title {
+    font-size: 3rem;
+}
+
+.steps{
+    width: 70%;
+}
